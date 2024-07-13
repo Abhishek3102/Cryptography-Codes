@@ -9,7 +9,7 @@ In today's increasingly digital and interconnected world, the need for robust se
 - **Columnar Transposition**: A classical encryption technique.
 - **Knapsack Problem**: A public key cryptosystem.
 - **RSA**: A widely-used public key cryptosystem.
-- **Custom Algorithm**: A unique encryption method developed by the author.
+- **Unique Algorithm**: A noteworthy encryption and decryption method developed by me.
 - **Diffie-Hellman**: A key exchange protocol.
 - **Vigenère Cipher**: A method of encrypting alphabetic text using a simple form of polyalphabetic substitution.
 - **DES (Data Encryption Standard)**: A symmetric-key algorithm for the encryption of digital data.
